@@ -1,4 +1,3 @@
-Hi there 👋
 - 👋 Hi, I’m @aayushirajsingh
 - 👀 I’m interested in exploring.
 - 🌱 I’m currently learning python.
