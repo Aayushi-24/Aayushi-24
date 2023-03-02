@@ -1,5 +1,7 @@
 Hi there 👋
-- 🌱 I’m currently learning how github works
+- 👋 Hi, I’m @aayushirajsingh
+- 👀 I’m interested in exploring.
+- 🌱 I’m currently learning python.
 <!--
 **aayushirajsingh/AayushiRajSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
