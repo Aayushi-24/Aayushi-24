@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @aayushirajsingh
 - 👀 I’m interested in exploring.
 - 🌱 I’m currently learning python.
+https://hostrider.com/images/tw.png
+
  [![An image of @aayushi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushi)](https://holopin.io/@aayushi)
 <!--
 **aayushirajsingh/AayushiRajSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
